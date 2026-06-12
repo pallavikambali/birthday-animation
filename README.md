@@ -1,5 +1,9 @@
 # 🎉 Happy Birthday Animation
 
+## Preview
+
+![Birthday Animation](screenshot.png)
+
 A Python birthday celebration project built using Pygame.
 
 ## Features
